@@ -1,11 +1,8 @@
-Music7100
+AcceleroMusic
 =========
 
-<<<<<<< HEAD
-Compose music using accelerometer on the iPhone
+Use accelerometor on iPhone as an interface for musical expression.
 
 1) UIAccelerometer to detect periodic hand gestures: beat/tempo
-2) VVOSC to send tempo information via Open Sound Control
-=======
-Compose music using accelerometer on the iPhone
->>>>>>> 6d6d704427e78831f41a61fa020a46cde190bfbf
+2) VVOSC library to send tempo information via Open Sound Control
+3) Situated Music Server (SMuSe) to generate MIDI notes from OSC messages
